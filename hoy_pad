@@ -6,4 +6,8 @@ pad line 2
 pad line 3
 pad line 4
 pad line 5
+<<<<<<< HEAD
 >>>>>>> 89b400f... pad dev 5
+=======
+pad line 6
+>>>>>>> 77357ee... pad dev 6
